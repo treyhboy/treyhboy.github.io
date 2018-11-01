@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="237px" viewBox="0 0 205 237" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-596.000000, -189.000000)">
+            <g id="logo" transform="translate(602.000000, 195.000000)">
+                <path d="M0,167.953008 L0,55.7030075" id="yesil2" stroke="#B2E04C" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M0,55.7030075 L96.2142857,0" id="sari2" stroke="#FFD100" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M192.428571,55.7030075 L96.2142857,0" id="turuncu2" stroke="#FF9700" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M192.428571,167.953008 L192.428571,55.7030075" id="kirmizi2" stroke="#FD5857" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M192.428571,168.796992 L96.2142857,224.5" id="mor" stroke="#A086C4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M48.1071429,196.648496 L96.2142857,224.5" id="mavi" stroke="#00ACE6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M48.1071429,196.648496 L48.1071429,84.3984962" id="turkuaz" stroke="#3ECFE6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M96.2142857,55.7030075 L48.1071429,83.5545113" id="koyuyesil" stroke="#37CBA2" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M96.2142857,55.7030075 L144.321429,83.5545113" id="yesil" stroke="#B2E04C" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M144.321429,140.945489 L144.321429,84.3984962" id="sari" stroke="#FFD100" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M144.321429,140.101504 L96.2142857,167.953008" id="turuncu" stroke="#FF9700" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M96.2142857,168.796992 L96.2142857,112.25" id="kirmizi" stroke="#FD5857" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="nokta" fill="#FD5857" fill-rule="nonzero" cx="96.2142857" cy="112.25" r="16.0357143"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
